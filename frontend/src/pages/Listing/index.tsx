@@ -6,7 +6,6 @@ import { MoviePage } from "types/movie";
 
 import Pagination from "components/Pagination";
 import MovieCard from "components/MovieCard";
-import { isTemplateExpression } from "typescript";
 
 function Listing() {
 
